@@ -9,20 +9,23 @@ from functools import wraps
 import soundfile
 import os.path
 
-
 # DO A WRAPPER FOR wav.read to use audio.read if the first fails!
-WAV_AMOUNT = ['%.3d'%i for i in range(92)]
-
+WAV_AMOUNT = ['%.3d' % i for i in range(92)]
 
 
 class Decide:
     def __init__(self, filename, male_Hz=100, female_Hz=200):
         self.read(filename)
-        #print(self.sampling_rate)
+        # print(self.sampling_rate)
         self.male_Hz, self.female_Hz = male_Hz, female_Hz
+        self.generate_sex_sin()
+
         self.compute()
-        print(self.result)
-        print(min(self.data), max(self.data))
+        #print(self.result)
+        #print(min(self.data), max(self.data))
+
+    def get_result(self):
+        return self.result
 
     def compute(self):
         functions = self.get_functions()
@@ -53,16 +56,16 @@ class Decide:
 
         return wrapper
 
-    @safe_read
     def read_scipy(self, filename):
         '''uses scipy.io.wavfile to read the .wav file If it fails,
          the method from  audo module should be called.'''
         self.sampling_rate, self.data = scipy.io.wavfile.read(filename)
 
         return
+
     @safe_read
     def read_soundfile(self, filename):
-        #print("WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW")
+        # print("WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW")
         self.data, self.sampling_rate = soundfile.read(filename)
         return
 
@@ -78,17 +81,39 @@ class Decide:
 
     # TODO
     def decide(self, probs):
-        self.result = None
+        '''right now each method is counted as one point, to be changed!'''
+        score = 0
+        for probe in probs:
+            if(probe[0] > probe[1]):
+                score +=1
+            else:
+                score -=1
+        if score > 0:
+            self.result = 'M'
+        else:
+            self.result = 'K'
 
+    # TODO
     def auto_corelation(self):
+        male_correlation = max(correlate(self.male_sin, self.data))
+        female_correlation = max(correlate(self.female_sin, self.data))
+        #if(male_correlation > female_correlation):
+        #    print("M")
+        #else:
+        #    print("K")
+        #print(male_correlation, female_correlation)
+        return ((male_correlation, female_correlation))
         pass
 
+    def generate_sex_sin(self):
+        self.male_sin = sin(linspace(0, 2 * pi, self.sampling_rate/self.male_Hz))
+        self.female_sin = sin(linspace(0, 2 * pi, self.sampling_rate/self.female_Hz))
 
 
 if __name__ == "__main__":
-    '''A test to return effeciancy!'''
+    '''A test to return efficiency!'''
     for i in WAV_AMOUNT:
-        file = "train_sox/"+i+"_K.wav"
+        file = "train_sox/" + i + "_K.wav"
         if os.path.exists(file):
             print(file)
             Decide(file)
