@@ -1,0 +1,408 @@
+phase one finished
+Congratulations!  (40, 40) got score of  50.549%
+Congratulations!  (41, 40) got score of  53.846%
+might be good  (42, 40) with score of  52.747%
+Congratulations!  (42, 41) got score of  57.143%
+might be good  (43, 40) with score of  56.044%
+Congratulations!  (43, 41) got score of  57.143%
+might be good  (43, 42) with score of  56.044%
+might be good  (44, 42) with score of  54.945%
+might be good  (44, 43) with score of  54.945%
+might be good  (45, 41) with score of  54.945%
+might be good  (45, 42) with score of  54.945%
+might be good  (45, 43) with score of  56.044%
+might be good  (45, 44) with score of  56.044%
+might be good  (46, 40) with score of  54.945%
+might be good  (46, 41) with score of  54.945%
+Congratulations!  (46, 42) got score of  58.242%
+might be good  (46, 43) with score of  57.143%
+might be good  (46, 45) with score of  56.044%
+might be good  (47, 40) with score of  57.143%
+might be good  (47, 41) with score of  56.044%
+Congratulations!  (47, 42) got score of  58.242%
+Congratulations!  (47, 43) got score of  59.341%
+might be good  (47, 44) with score of  58.242%
+might be good  (47, 46) with score of  58.242%
+might be good  (48, 40) with score of  57.143%
+Congratulations!  (48, 41) got score of  59.341%
+Congratulations!  (48, 42) got score of  59.341%
+Congratulations!  (48, 43) got score of  59.341%
+Congratulations!  (48, 44) got score of  59.341%
+Congratulations!  (48, 45) got score of  61.538%
+Congratulations!  (48, 46) got score of  61.538%
+Congratulations!  (48, 47) got score of  62.637%
+might be good  (49, 41) with score of  60.440%
+Congratulations!  (49, 42) got score of  62.637%
+might be good  (49, 44) with score of  61.538%
+Congratulations!  (49, 45) got score of  63.736%
+might be good  (49, 46) with score of  62.637%
+might be good  (49, 47) with score of  61.538%
+might be good  (50, 41) with score of  61.538%
+might be good  (50, 42) with score of  61.538%
+might be good  (50, 44) with score of  61.538%
+might be good  (58, 57) with score of  62.637%
+might be good  (59, 55) with score of  61.538%
+Congratulations!  (59, 56) got score of  63.736%
+Congratulations!  (59, 57) got score of  63.736%
+might be good  (59, 58) with score of  62.637%
+might be good  (60, 41) with score of  61.538%
+might be good  (60, 54) with score of  61.538%
+might be good  (60, 55) with score of  62.637%
+Congratulations!  (60, 56) got score of  63.736%
+Congratulations!  (60, 57) got score of  63.736%
+Congratulations!  (60, 58) got score of  67.033%
+might be good  (60, 59) with score of  65.934%
+might be good  (61, 57) with score of  65.934%
+might be good  (61, 58) with score of  64.835%
+might be good  (62, 57) with score of  64.835%
+might be good  (62, 58) with score of  65.934%
+might be good  (62, 59) with score of  64.835%
+might be good  (63, 57) with score of  64.835%
+might be good  (63, 58) with score of  64.835%
+might be good  (65, 57) with score of  65.934%
+might be good  (66, 45) with score of  64.835%
+might be good  (66, 46) with score of  65.934%
+might be good  (66, 56) with score of  65.934%
+Congratulations!  (66, 57) got score of  67.033%
+might be good  (66, 58) with score of  65.934%
+Congratulations!  (67, 45) got score of  67.033%
+might be good  (67, 46) with score of  65.934%
+might be good  (67, 55) with score of  65.934%
+might be good  (67, 56) with score of  65.934%
+Congratulations!  (67, 57) got score of  67.033%
+might be good  (67, 58) with score of  65.934%
+might be good  (67, 65) with score of  64.835%
+might be good  (67, 66) with score of  65.934%
+might be good  (68, 44) with score of  64.835%
+might be good  (68, 45) with score of  65.934%
+might be good  (68, 46) with score of  64.835%
+might be good  (68, 55) with score of  65.934%
+might be good  (68, 56) with score of  65.934%
+might be good  (68, 57) with score of  65.934%
+might be good  (68, 63) with score of  64.835%
+might be good  (68, 64) with score of  64.835%
+might be good  (68, 65) with score of  65.934%
+might be good  (68, 66) with score of  65.934%
+might be good  (69, 45) with score of  65.934%
+might be good  (69, 46) with score of  64.835%
+might be good  (69, 47) with score of  64.835%
+might be good  (69, 48) with score of  64.835%
+might be good  (69, 55) with score of  65.934%
+Congratulations!  (69, 56) got score of  67.033%
+Congratulations!  (69, 57) got score of  67.033%
+might be good  (69, 58) with score of  64.835%
+might be good  (69, 65) with score of  65.934%
+might be good  (69, 66) with score of  64.835%
+might be good  (70, 44) with score of  64.835%
+Congratulations!  (70, 45) got score of  67.033%
+might be good  (70, 46) with score of  65.934%
+might be good  (70, 47) with score of  64.835%
+might be good  (70, 55) with score of  65.934%
+might be good  (70, 56) with score of  65.934%
+might be good  (70, 57) with score of  64.835%
+might be good  (70, 63) with score of  64.835%
+might be good  (70, 64) with score of  64.835%
+might be good  (70, 65) with score of  65.934%
+might be good  (71, 43) with score of  64.835%
+might be good  (71, 44) with score of  65.934%
+might be good  (71, 45) with score of  64.835%
+might be good  (71, 46) with score of  65.934%
+might be good  (71, 47) with score of  64.835%
+might be good  (71, 53) with score of  64.835%
+might be good  (72, 43) with score of  64.835%
+might be good  (72, 65) with score of  65.934%
+might be good  (75, 72) with score of  64.835%
+might be good  (76, 71) with score of  64.835%
+might be good  (76, 73) with score of  65.934%
+Congratulations!  (76, 74) got score of  67.033%
+might be good  (76, 75) with score of  65.934%
+might be good  (77, 41) with score of  64.835%
+might be good  (77, 42) with score of  64.835%
+might be good  (77, 64) with score of  64.835%
+might be good  (77, 65) with score of  65.934%
+Congratulations!  (77, 66) got score of  67.033%
+might be good  (77, 67) with score of  64.835%
+might be good  (77, 68) with score of  64.835%
+might be good  (77, 69) with score of  64.835%
+might be good  (77, 70) with score of  64.835%
+Congratulations!  (77, 71) got score of  67.033%
+might be good  (77, 72) with score of  65.934%
+Congratulations!  (77, 73) got score of  67.033%
+Congratulations!  (77, 75) got score of  67.033%
+Congratulations!  (77, 76) got score of  68.132%
+might be good  (78, 63) with score of  65.934%
+might be good  (78, 64) with score of  67.033%
+might be good  (78, 65) with score of  67.033%
+might be good  (78, 66) with score of  67.033%
+might be good  (78, 67) with score of  67.033%
+might be good  (78, 69) with score of  67.033%
+might be good  (78, 70) with score of  65.934%
+might be good  (78, 71) with score of  65.934%
+might be good  (78, 72) with score of  67.033%
+might be good  (78, 73) with score of  67.033%
+Congratulations!  (78, 75) got score of  68.132%
+Congratulations!  (78, 76) got score of  68.132%
+might be good  (78, 77) with score of  67.033%
+might be good  (79, 63) with score of  65.934%
+might be good  (79, 64) with score of  67.033%
+Congratulations!  (79, 65) got score of  68.132%
+might be good  (79, 66) with score of  67.033%
+might be good  (79, 67) with score of  65.934%
+might be good  (79, 68) with score of  67.033%
+Congratulations!  (79, 69) got score of  68.132%
+might be good  (79, 70) with score of  67.033%
+might be good  (79, 71) with score of  67.033%
+might be good  (79, 72) with score of  65.934%
+might be good  (79, 73) with score of  65.934%
+might be good  (79, 75) with score of  67.033%
+might be good  (79, 76) with score of  67.033%
+might be good  (79, 77) with score of  67.033%
+might be good  (79, 78) with score of  65.934%
+might be good  (80, 64) with score of  65.934%
+might be good  (80, 65) with score of  65.934%
+might be good  (80, 66) with score of  65.934%
+might be good  (80, 67) with score of  65.934%
+Congratulations!  (80, 68) got score of  68.132%
+Congratulations!  (80, 69) got score of  68.132%
+might be good  (80, 70) with score of  65.934%
+might be good  (80, 71) with score of  65.934%
+might be good  (80, 72) with score of  67.033%
+Congratulations!  (80, 74) got score of  68.132%
+might be good  (80, 75) with score of  65.934%
+might be good  (80, 76) with score of  65.934%
+might be good  (80, 77) with score of  67.033%
+might be good  (81, 64) with score of  65.934%
+might be good  (81, 65) with score of  67.033%
+might be good  (81, 66) with score of  67.033%
+might be good  (81, 67) with score of  67.033%
+might be good  (81, 68) with score of  67.033%
+might be good  (81, 69) with score of  67.033%
+might be good  (81, 70) with score of  65.934%
+Congratulations!  (81, 73) got score of  68.132%
+Congratulations!  (81, 74) got score of  68.132%
+might be good  (81, 75) with score of  67.033%
+might be good  (81, 76) with score of  67.033%
+might be good  (81, 77) with score of  67.033%
+might be good  (82, 63) with score of  65.934%
+might be good  (82, 64) with score of  67.033%
+might be good  (82, 65) with score of  67.033%
+might be good  (82, 66) with score of  65.934%
+Congratulations!  (82, 67) got score of  68.132%
+Congratulations!  (82, 68) got score of  68.132%
+might be good  (82, 69) with score of  65.934%
+might be good  (82, 72) with score of  65.934%
+might be good  (82, 73) with score of  67.033%
+might be good  (82, 74) with score of  65.934%
+might be good  (82, 75) with score of  65.934%
+might be good  (83, 63) with score of  65.934%
+might be good  (83, 64) with score of  65.934%
+might be good  (83, 65) with score of  65.934%
+might be good  (83, 66) with score of  65.934%
+Congratulations!  (83, 67) got score of  68.132%
+Congratulations!  (83, 68) got score of  68.132%
+might be good  (83, 69) with score of  67.033%
+might be good  (83, 72) with score of  67.033%
+might be good  (83, 73) with score of  67.033%
+might be good  (83, 77) with score of  65.934%
+might be good  (84, 62) with score of  65.934%
+might be good  (84, 63) with score of  65.934%
+might be good  (84, 64) with score of  65.934%
+might be good  (84, 65) with score of  65.934%
+might be good  (84, 66) with score of  67.033%
+Congratulations!  (84, 67) got score of  68.132%
+Congratulations!  (84, 68) got score of  68.132%
+might be good  (84, 69) with score of  67.033%
+might be good  (84, 70) with score of  65.934%
+might be good  (84, 71) with score of  65.934%
+might be good  (84, 72) with score of  65.934%
+might be good  (84, 73) with score of  65.934%
+might be good  (84, 76) with score of  65.934%
+might be good  (84, 77) with score of  65.934%
+might be good  (85, 62) with score of  65.934%
+might be good  (85, 63) with score of  65.934%
+might be good  (85, 64) with score of  65.934%
+might be good  (85, 65) with score of  65.934%
+Congratulations!  (85, 66) got score of  69.231%
+Congratulations!  (85, 67) got score of  69.231%
+might be good  (85, 68) with score of  67.033%
+might be good  (86, 64) with score of  67.033%
+might be good  (86, 65) with score of  67.033%
+might be good  (86, 66) with score of  68.132%
+Congratulations!  (86, 67) got score of  69.231%
+might be good  (86, 68) with score of  67.033%
+might be good  (87, 64) with score of  67.033%
+might be good  (87, 65) with score of  67.033%
+might be good  (87, 66) with score of  68.132%
+might be good  (87, 67) with score of  67.033%
+might be good  (88, 64) with score of  67.033%
+might be good  (88, 65) with score of  67.033%
+might be good  (88, 66) with score of  68.132%
+might be good  (88, 84) with score of  67.033%
+might be good  (88, 85) with score of  67.033%
+might be good  (88, 86) with score of  67.033%
+might be good  (89, 64) with score of  67.033%
+might be good  (89, 65) with score of  68.132%
+might be good  (89, 66) with score of  67.033%
+might be good  (89, 77) with score of  67.033%
+might be good  (89, 84) with score of  67.033%
+might be good  (89, 85) with score of  67.033%
+might be good  (89, 86) with score of  68.132%
+Congratulations!  (89, 87) got score of  70.330%
+Congratulations!  (89, 88) got score of  71.429%
+might be good  (90, 85) with score of  69.231%
+might be good  (90, 86) with score of  69.231%
+might be good  (90, 87) with score of  70.330%
+might be good  (90, 88) with score of  69.231%
+might be good  (91, 84) with score of  69.231%
+might be good  (91, 85) with score of  69.231%
+might be good  (91, 86) with score of  70.330%
+might be good  (92, 83) with score of  69.231%
+might be good  (92, 84) with score of  70.330%
+Congratulations!  (92, 85) got score of  71.429%
+might be good  (93, 74) with score of  69.231%
+might be good  (93, 75) with score of  69.231%
+might be good  (93, 82) with score of  69.231%
+might be good  (93, 83) with score of  69.231%
+might be good  (93, 84) with score of  70.330%
+might be good  (93, 85) with score of  69.231%
+might be good  (94, 74) with score of  69.231%
+might be good  (94, 78) with score of  69.231%
+might be good  (94, 80) with score of  69.231%
+might be good  (94, 84) with score of  69.231%
+might be good  (94, 85) with score of  69.231%
+might be good  (95, 77) with score of  69.231%
+might be good  (95, 80) with score of  69.231%
+might be good  (104, 63) with score of  69.231%
+might be good  (105, 63) with score of  69.231%
+might be good  (105, 64) with score of  70.330%
+might be good  (105, 73) with score of  69.231%
+might be good  (105, 74) with score of  69.231%
+might be good  (106, 63) with score of  69.231%
+Congratulations!  (106, 64) got score of  71.429%
+might be good  (106, 65) with score of  69.231%
+might be good  (106, 73) with score of  69.231%
+might be good  (106, 74) with score of  69.231%
+might be good  (107, 62) with score of  69.231%
+might be good  (107, 63) with score of  69.231%
+might be good  (107, 64) with score of  69.231%
+might be good  (107, 71) with score of  69.231%
+might be good  (107, 72) with score of  69.231%
+might be good  (107, 73) with score of  69.231%
+might be good  (107, 74) with score of  70.330%
+might be good  (108, 62) with score of  69.231%
+might be good  (108, 63) with score of  69.231%
+might be good  (108, 71) with score of  69.231%
+might be good  (108, 72) with score of  69.231%
+might be good  (108, 73) with score of  69.231%
+might be good  (108, 74) with score of  69.231%
+might be good  (108, 75) with score of  69.231%
+might be good  (108, 82) with score of  69.231%
+might be good  (109, 62) with score of  69.231%
+might be good  (109, 71) with score of  69.231%
+might be good  (109, 72) with score of  69.231%
+might be good  (109, 75) with score of  69.231%
+might be good  (110, 69) with score of  69.231%
+might be good  (110, 71) with score of  69.231%
+might be good  (110, 72) with score of  69.231%
+might be good  (111, 69) with score of  69.231%
+might be good  (112, 70) with score of  69.231%
+might be good  (122, 152) with score of  69.231%
+might be good  (123, 144) with score of  69.231%
+might be good  (123, 151) with score of  69.231%
+might be good  (123, 152) with score of  69.231%
+might be good  (124, 144) with score of  69.231%
+might be good  (124, 145) with score of  69.231%
+might be good  (124, 148) with score of  69.231%
+might be good  (124, 149) with score of  69.231%
+might be good  (124, 150) with score of  69.231%
+might be good  (124, 151) with score of  69.231%
+might be good  (125, 143) with score of  69.231%
+might be good  (125, 144) with score of  69.231%
+might be good  (125, 145) with score of  69.231%
+might be good  (125, 147) with score of  69.231%
+might be good  (125, 148) with score of  69.231%
+might be good  (125, 149) with score of  69.231%
+might be good  (125, 150) with score of  69.231%
+might be good  (125, 151) with score of  69.231%
+might be good  (126, 143) with score of  69.231%
+might be good  (126, 144) with score of  69.231%
+might be good  (126, 145) with score of  69.231%
+might be good  (126, 146) with score of  69.231%
+might be good  (126, 147) with score of  69.231%
+might be good  (126, 148) with score of  70.330%
+might be good  (126, 149) with score of  70.330%
+might be good  (126, 150) with score of  70.330%
+might be good  (127, 143) with score of  69.231%
+might be good  (127, 144) with score of  69.231%
+might be good  (127, 145) with score of  69.231%
+might be good  (127, 146) with score of  69.231%
+might be good  (127, 147) with score of  69.231%
+might be good  (127, 148) with score of  69.231%
+might be good  (127, 149) with score of  70.330%
+might be good  (127, 150) with score of  70.330%
+might be good  (128, 143) with score of  69.231%
+might be good  (128, 144) with score of  69.231%
+might be good  (128, 145) with score of  69.231%
+might be good  (128, 146) with score of  69.231%
+might be good  (128, 147) with score of  69.231%
+might be good  (128, 148) with score of  69.231%
+might be good  (128, 149) with score of  70.330%
+might be good  (128, 150) with score of  69.231%
+might be good  (129, 142) with score of  69.231%
+might be good  (129, 144) with score of  69.231%
+might be good  (129, 145) with score of  69.231%
+might be good  (129, 146) with score of  69.231%
+might be good  (129, 147) with score of  69.231%
+might be good  (129, 148) with score of  70.330%
+might be good  (129, 149) with score of  69.231%
+might be good  (129, 150) with score of  69.231%
+might be good  (130, 143) with score of  69.231%
+might be good  (130, 144) with score of  69.231%
+might be good  (130, 145) with score of  69.231%
+might be good  (130, 146) with score of  69.231%
+might be good  (130, 147) with score of  69.231%
+might be good  (130, 148) with score of  69.231%
+might be good  (130, 149) with score of  70.330%
+might be good  (130, 150) with score of  69.231%
+might be good  (131, 135) with score of  69.231%
+might be good  (131, 143) with score of  69.231%
+might be good  (131, 144) with score of  69.231%
+might be good  (131, 145) with score of  70.330%
+might be good  (131, 146) with score of  70.330%
+might be good  (131, 147) with score of  69.231%
+might be good  (131, 148) with score of  70.330%
+might be good  (131, 149) with score of  69.231%
+might be good  (132, 141) with score of  69.231%
+might be good  (132, 142) with score of  69.231%
+might be good  (132, 143) with score of  70.330%
+might be good  (132, 144) with score of  70.330%
+might be good  (132, 145) with score of  70.330%
+might be good  (132, 146) with score of  70.330%
+might be good  (132, 148) with score of  70.330%
+might be good  (133, 142) with score of  69.231%
+might be good  (133, 143) with score of  70.330%
+might be good  (133, 144) with score of  70.330%
+might be good  (133, 145) with score of  70.330%
+might be good  (133, 146) with score of  69.231%
+might be good  (133, 147) with score of  69.231%
+might be good  (134, 135) with score of  69.231%
+might be good  (134, 142) with score of  70.330%
+might be good  (134, 143) with score of  70.330%
+might be good  (134, 144) with score of  70.330%
+might be good  (134, 145) with score of  69.231%
+might be good  (134, 146) with score of  70.330%
+might be good  (135, 142) with score of  70.330%
+might be good  (135, 143) with score of  69.231%
+might be good  (135, 144) with score of  69.231%
+might be good  (135, 145) with score of  70.330%
+might be good  (136, 141) with score of  69.231%
+might be good  (136, 142) with score of  69.231%
+might be good  (136, 143) with score of  69.231%
+might be good  (136, 144) with score of  70.330%
+might be good  (136, 145) with score of  69.231%
+might be good  (137, 140) with score of  69.231%
+might be good  (137, 143) with score of  69.231%
+might be good  (137, 144) with score of  69.231%
+might be good  (138, 142) with score of  69.231%
+might be good  (139, 142) with score of  69.231%
+We Have a winner!  (106, 64) got score of  71.429%
